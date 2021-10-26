@@ -1,0 +1,10 @@
+Big O notation is an equation used to determine run time scales according to various input variables.
+
+For example- imagine we had a basketball court that was 100m x 100 m:
+
+
+O(a*b) ---> a represents one side of the court, and b represents the other
+
+O(a) ---> area of basketball court
+
+O(s^2) ---> s being one side (100m) of the court 

@@ -1,0 +1,8 @@
+One of the artists at the current studio I am at, did not understand how Harmony scripts were being executed in the background of her work.
+
+She wanted to learn more about how the tool she uses daily, is being run. I started off by interactively showing her Harmony's API,
+through the sandbox environment. A simple 'Hello {}' GUI with {} being her name. 
+
+She has now taken it upong herself to learn a bit of JavaScript so that she feels more comfortable with the tools she uses, and the scripts she's running.
+
+I feel proud in knowing that showing her a small piece of code made her more confident to tackle on challenges she may face later on!
